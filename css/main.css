@@ -114,7 +114,7 @@ main {
   height: 250px;
   width: 100%;
 }
-main .position{
+.position{
 	font-weight: 700;
 }
 header {
@@ -136,6 +136,7 @@ main {
   font-size: 1.25em;
   font-family: 'Source Sans Pro', sans-serif;
 }
+
 
 .wrapper {
   /*add display:flex and set justify-content to space-between*/
